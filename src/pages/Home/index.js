@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Descubra os principios e fundamentos de uma prática intuitiva que conduz a humanidade desde sua criação. Exercendo medo aos tolos e exaltando os sábios. O universo oculto distingue as crianças que temem o escuro das que o encaram com realidade e sabedoria."}
+        videoDescription={"Descubra os princípios e fundamentos de uma prática intuitiva que conduz a humanidade desde sua criação. Exercendo medo aos tolos e exaltando os sábios. O universo oculto distingue as crianças que temem ao escuro, das que o encaram com realidade e sabedoria."}
       />
 
 <Carousel
